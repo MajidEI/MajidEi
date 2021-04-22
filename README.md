@@ -19,9 +19,6 @@
 </a>
 
 <br/>
-<br/>
-
-
 
 - 🌱 I am a computer science student.
 - 🔭 I’m currently working on [ODOO](https://www.odoo.com/) Modules.
