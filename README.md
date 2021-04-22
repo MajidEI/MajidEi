@@ -27,8 +27,9 @@
 - 🔭 I’m currently working on [ODOO](https://www.odoo.com/) Modules.
 - 💬 I'm open for collaborations in projects.
 
+#### Get in touch :speech_balloon:
 
-  [![Twitter: Majid](https://img.shields.io/twitter/follow/AbdelMajidEdda1?style=social)](https://twitter.com/AbdelMajidEdda1)
+[![Twitter: Majid](https://img.shields.io/twitter/follow/AbdelMajidEdda1?style=social)](https://twitter.com/AbdelMajidEdda1)
 [![Linkedin: Majid](https://img.shields.io/badge/-Majid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdel-majid-ed-dahbi/)](https://www.linkedin.com/in/abdel-majid-ed-dahbi/)
 [![GitHub Majid](https://img.shields.io/github/followers/MajidEi?label=follow&style=social)](https://github.com/MajidEi)
 
@@ -48,11 +49,11 @@
 <a href="https://github.com/MajidEi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MajidEi&show_icons=true&theme=light&line_height=27" alt="Majid's github stats"/>
 </a>
-
+<br/>
 <a href="https://github.com/MajidEi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajidEi&theme=light&hide_langs_below=1" />
 </a>
-
+<br/>
 <a href="https://github.com/MajidEi/cug">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MajidEi&repo=cug&theme=light" />
 
