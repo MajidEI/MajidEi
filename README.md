@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MajidEi&label=Views&color=blue&style=plastic" alt="Majido" /> </p>
 
-<a href="https://twitter.com/AbdelMajidEdda1">
+<a href="https://twitter.com/Ed_dahbi_Abdel">
   <img align="left" alt="Majid's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abdel-majid-ed-dahbi/">
@@ -29,7 +29,7 @@
 
 
   [![Twitter: Majid](https://img.shields.io/twitter/follow/AbdelMajidEdda1?style=social)](https://twitter.com/AbdelMajidEdda1)
-[![Linkedin: Majid](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdel-majid-ed-dahbi/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: Majid](https://img.shields.io/badge/-Majid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdel-majid-ed-dahbi/)](https://www.linkedin.com/in/abdel-majid-ed-dahbi/)
 [![GitHub Majid](https://img.shields.io/github/followers/MajidEi?label=follow&style=social)](https://github.com/MajidEi)
 
 
@@ -45,15 +45,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/MajidEi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MajidEi&show_icons=true&theme=light&line_height=27" alt="Majid's github stats"/>
 </a>
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/MajidEi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajidEi&theme=light&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/iampawan/FlutterExampleApps">
+<a href="https://github.com/MajidEi/cug">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MajidEi&repo=cug&theme=light" />
 
 </a>
