@@ -23,7 +23,7 @@
 
 
 - 🌱 I am a computer science student.
-- 🔭 I’m currently working on [ODOO](https://www.odoo.com/) Modules.
+- 🔭 I’m currently working on [Test Automation](https://www.google.com/).
 - 💬 I'm open for collaborations in projects.
 
 #### Get in touch :speech_balloon:
