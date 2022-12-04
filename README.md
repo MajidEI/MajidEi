@@ -22,8 +22,7 @@
 <br/>
 
 
-- 🌱 I am a computer science student.
-- 🔭 I’m currently working on [Test Automation](https://www.google.com/).
+- 🌱 I am a software engineer and salesforce technical consultant.
 - 💬 I'm open for collaborations in projects.
 
 #### Get in touch :speech_balloon:
